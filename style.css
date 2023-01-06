@@ -1,0 +1,64 @@
+
+h1{
+    margin-left: 3rem;
+    font-weight: 400;
+}
+li{
+    list-style: none;
+    margin-right: 2rem;
+    font-weight: bold;
+   
+
+}
+.navbar>nav>h1{
+    margin-left: 2rem;
+}
+
+.navbar>nav{
+    display: flex;
+    justify-content: space-between
+}
+ul{
+    display: flex;
+    justify-content:space-between;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+   
+
+.web{
+display: flex;
+justify-content: space-between;
+font-weight: bold;
+
+}
+.web>div{
+    text-align: center;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+}
+   
+.footer{
+    height:80px;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+    
+}
+.footer>p{
+    font-size: 25px;
+}
+
+a:link, a:visited{
+    color: rgb(0,0,0);
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:brown
+
+}
